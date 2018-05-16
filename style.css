@@ -1,0 +1,14 @@
+.container{
+  background: #444;
+  text-align: center;
+}
+
+.img-layout{
+  width: 400px;
+  height: 250px;
+  border-radius: 10px;
+}
+
+h1, h2{
+  text-shadow: 2px 2px 2px brown;
+}
